@@ -1,0 +1,33 @@
+This file lists my progress in following the Marek Knows VMK series
+on OpenGL (Immediate Mode) Game Engine Development.
+
+Completed so far:
+VMK1  - Creating the FPS Game Engine Project
+VMK2  - Error Handler class
+VMK3a - GameOGL class setup
+VMK3b - GameOGL class cpp code part1
+VMK3c - GameOGL class cpp code part2
+VMK4  - Creating a Vertex3 and Triangle class
+VMK5  - Scene class
+VMK6  - Scene Construction
+VMK7  - Vector3 class
+VMK8  - Camera class
+VMK9  - Keyboard Control
+VMK10 - Mouse Control
+VMK11 - Player class
+VMK12 - Adding Jump Ability
+VMK13 - Adding Crouch Ability
+VMK14 - Creating a house
+VMK15 - Transparency
+VMK16A - Library Project Part 1
+VMK16B - Library Project Part 2
+VMK17 - FlatGrid replaces the triangle used for the ground.
+VMK18A - NodeLight class and header files.
+VMK18B - NodeLightPoint and NodeLightSpot.
+VMK18C&D - Completed Test Lights - working with light sources.
+VMK19A - NodeTexture class completed - working, project still runs.
+VMK19B - Add Node Texture to Scene - working, project still runs.
+VMK19C,D,E - Texture mapping Parts 1,2,3 - Complete and working.
+VMK19F - Corrections to the Scene class - Complete and working.
+VMK20A - Font Class Header and CPP file created and compiled without errors.
+
