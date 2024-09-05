@@ -30,4 +30,4 @@ VMK19B - Add Node Texture to Scene - working, project still runs.
 VMK19C,D,E - Texture mapping Parts 1,2,3 - Complete and working.
 VMK19F - Corrections to the Scene class - Complete and working.
 VMK20A - Font Class Header and CPP file created and compiled without errors.
-
+VMK20B - Mono spaced font. Compiles without error and runs but does not display the text on the screen.
